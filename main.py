@@ -2,8 +2,8 @@ import cv2
 import numpy as np
 import os
 
-INPUT_FOLDER = "images"          # STOP tabelasi fotograflarinin oldugu klasor
-OUTPUT_FOLDER = "output_images"  # Tespit sonrasi kaydedilecek klasor
+INPUT_FOLDER = "images"         
+OUTPUT_FOLDER = "output_images"  
 
 
 def detect_stop_sign():
